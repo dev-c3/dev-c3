@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Development, APIs, IoT, and Machine Learning.
 - 🌱 I’m currently learning ML, Python, Docker, AWS
 - 💞️ I’m looking to collaborate on Javascript, Web Applications, Solidity Smart Contracts.
-- 📫 How to reach me Twitter!
+- Heres a link to my portfolio for more information! https://master.d1m77orbrchial.amplifyapp.com/
 
 <!---
 dev-c3/dev-c3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
