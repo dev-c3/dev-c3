@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dev-c3/dev-c3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, World! 👋
+## Hello! 👋
 
 ## About Me
 I'm a passionate developer based in The DMV Area. My curiosity drives me to explore various aspects of technology, from web development to blockchain. Here's what I'm currently up to:
