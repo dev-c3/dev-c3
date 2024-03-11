@@ -26,8 +26,9 @@ I'm a passionate developer based in The DMV Area. My curiosity drives me to expl
 
 ## Showcasing My Work
 Here's what you'll find in my GitHub repository:
-- **Blog**: I share insights on tech, security, and coding.
+- [**The Numbers**](https://the-numbers-4eb515439f31.herokuapp.com/): Cryptocurrency price scanner equipped with a rainbow chart to make reasonable decisions on what to do with your coins.
+![image](https://github.com/dev-c3/dev-c3/assets/107075687/99f30dc2-d6a4-47b9-9d1b-19f4b239b66b)
 - **Smart Contracts**: Exploring blockchain-based solutions.
-- **Personal Projects**: From web apps to utilities, I love building and experimenting.
+- **Personal Projects**: I love building and experimenting from web apps to utilities.
 
 Feel free to connect with me on LinkedIn or Twitter. Let's learn, collaborate, and create together! 🚀
